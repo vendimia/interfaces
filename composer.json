@@ -1,0 +1,9 @@
+{
+    "name": "vendimia/interfaces",
+    "description": "Common Vendimia interfaces",
+    "version": "0.1.0",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": ">=8.0"
+    }
+}
