@@ -1,1 +1,3 @@
-# interfaces
+# vendimia/interfaces
+
+Common Vendimia interfaces
